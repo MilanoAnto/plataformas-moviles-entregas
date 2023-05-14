@@ -1,0 +1,36 @@
+.titulo
+{
+    text-align: center;
+}
+
+p
+{
+    font-family: serif !important;
+}
+
+#primer-parrafo
+{
+    background-color: #CEE !important;
+}
+
+em
+{
+    color: #933 !important;
+}
+
+a
+{
+    outline: 1px solid #333 !important;
+}
+
+p.fuente.parrafo
+{
+    opacity: 100%;
+    color: #000 !important;
+}
+
+.complicado
+{
+    Font-weight: 100;
+    color: #C62 !important;
+}
